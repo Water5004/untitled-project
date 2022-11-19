@@ -1,3 +1,6 @@
 
-.idea
-venv
+.idea/misc.xml
+.idea/modules.xml
+.idea/untitled-project.iml
+.idea/workspace.xml
+.idea/vcs.xml
