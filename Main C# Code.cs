@@ -6,4 +6,4 @@ public class Class1
 	{
 	}
 }
-print("hello world") 
+print("hello world")
